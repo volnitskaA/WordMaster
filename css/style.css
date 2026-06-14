@@ -1,0 +1,36 @@
+body {
+    background: #fff0f6;
+}
+
+.bg-primary {
+    background: linear-gradient(90deg, #ff5fa2, #ff8ac7) !important;
+}
+
+.btn-primary,
+.btn-success {
+    background-color: #ff5fa2;
+    border-color: #ff5fa2;
+}
+
+.btn-primary:hover,
+.btn-success:hover {
+    background-color: #e94f91;
+    border-color: #e94f91;
+}
+
+.card {
+    border-radius: 18px;
+}
+
+.navbar-brand::before {
+    content: "📚 ";
+}
+
+h1, h2, h3, h4 {
+    color: #3b2a35;
+}
+
+.badge-pink {
+    background-color: #ffd1e6;
+    color: #8a2455;
+}
